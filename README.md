@@ -1,20 +1,20 @@
 # App de Notas - Full Stack
 
-## 🔧 Requisitos
+## Requisitos
 
 - Node.js v18.17
 - PostgreSQL
 - Bash
 
-## ▶️ Ejecutar
+##  Ejecutar
 
 ```bash
 chmod +x run.sh
 ./run.sh
 ```
 
-## 🚀 Frontend
+##  Frontend
 http://localhost:5173
 
-## 🛠️ Backend
+##  Backend
 http://localhost:3001/api/notes
